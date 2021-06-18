@@ -1,0 +1,11 @@
+---
+application:
+  name: "klmk"
+  project: "klm-kingdom"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-klmk"
+  routes:
+  - application_name: "klmk"
+    paths:
+    - "/*"
