@@ -1,0 +1,193 @@
+/* body{
+    text-align: center;
+} */
+
+h1{
+    padding-top: 50px;
+    text-align: center;
+}
+
+/* hr{
+    border: dotted #EAF6F6 6px;
+    
+} */
+
+ #item{
+     font-size: 1.2rem;
+     margin-left: 25px;
+ }
+
+ #logo{ 
+    margin-left: 50px;
+ }
+
+ .carousel-inner{
+     max-height: 400px;
+     object-position: right bottom;
+ }
+
+ #nav2{
+     width: 100%;
+     height: 40%;
+     color: dodgerblue;
+ }
+
+ .a{
+     background-color: rgb(209, 229, 240);
+     padding-bottom: 10px;
+ }
+
+.b{
+     text-align: center;
+     padding-top: 30px;
+     position:relative;
+     left: 25%;
+     right: 35%;
+     width: 55%;
+     line-height: 1.5;
+ }
+
+ .c{
+    background-color: rgb(209, 229, 240);
+    text-align: center;
+    margin-bottom: 0;
+    padding: 30px 20%;
+ }
+
+ .cards{
+     padding: 3%; 
+ }
+
+ .h{
+     text-align: center;
+     padding-top: 50px;
+     /* background-color: rgb(101, 146, 160); */
+     padding-bottom: 5%;
+ }
+
+ .div1{
+    position: relative;
+    left: 20%;
+     width: 60%;
+     height:27%; 
+     margin-top: 30px;
+     border-radius: 6px;
+ } 
+ /*background-color: rgb(152, 225, 247); */
+
+ /* .div2{
+    padding-top: 30%;
+ } */
+
+ .para{
+     font-size: 20px;
+ }
+
+ 
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#headi{
+    text-align: center;
+}
+
+ .lastsec{
+     text-align: center;
+     background-color: rgb(174, 183, 187);
+     /* background-color: rgb(166, 230, 226); */
+     margin-top: 80px;
+ }
+
+ .lasttab{
+    text-align: left;
+    /* margin-left: 500px; */
+    /* margin-left: auto;
+    margin-right: 0px; */
+ }
+ 
+ .ltd{
+    padding-right: 40px;   
+}
+
+.rcol{
+    text-align: center;
+    padding: 40px 0;
+    
+    /* position: relative;
+    right: 15%;
+    left: 5%;
+    width: 80%; */
+} 
+
+#mov{
+     /* width: 50%; 
+    position: relative;
+    left: %; */
+    border-left: 0;
+    border-right: auto;
+}
+
+.lcol{
+    padding: 40px 0;
+    margin: 0 20%;
+}
+
+.workh{
+    position:relative;
+    left: 27%;
+    right: 20%;
+    /* margin-left: 25%;
+    margin-right: 0; */
+}
+
+.fa{
+    padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 6px;
+    
+}
+
+.fa:hover {
+    opacity: 1.6;
+}
+
+.fa-facebook {
+    /* background: ##55ACEE; */
+  color:#007bb5 ;
+  width: 30px;
+  height: 30px;
+}
+
+.fa-linkedin {
+    /* background: #007bb5; */
+    color: #007bb5;
+  }
+
+  .fa-twitter {
+    /* background: #55ACEE; */
+    color: #007bb5;
+  }
+
+  #lastdiv{
+      width: 102%;
+      /* position: relative;
+      left: 20%;
+      right: 25%; */
+     
+  }
+
+/* #subs{
+    margin: 10px 30%;    
+} */
+
+#button{
+    margin-top: 6px;
+}
+ 
